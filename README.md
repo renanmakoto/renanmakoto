@@ -1,5 +1,5 @@
 
-### Welcome to my GitHub profile
+## Hello! My name is Renan! Welcome to my GitHub profile!
 
 
 <div style="display: inline_block"><br>
