@@ -3,21 +3,21 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/npm/npm-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/electron/electron-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jquery/jquery-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg">
+  <img align="center" height="30" width="40" src="./assets/javascript-original.svg">
+  <img align="center" height="30" width="40" src="./assets/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="./assets/npm-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="./assets/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="./assets/express-original.svg">
+  <img align="center" height="30" width="40" src="./assets/react-original.svg">
+  <img align="center" height="30" width="40" src="./assets/nextjs-original.svg">
+  <img align="center" height="30" width="40" src="./assets/electron-original.svg">
+  <img align="center" height="30" width="40" src="./assets/jquery-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="./assets/mongodb-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="./assets/postgresql-original.svg">
+  <img align="center" height="30" width="40" src="./assets/linux-original.svg">
+  <img align="center" height="30" width="40" src="./assets/bash-original.svg">
+  <img align="center" height="30" width="40" src="./assets/git-original.svg">
+  <img align="center" height="30" width="40" src="./assets/github-original.svg">
 </div>
 
 ##
@@ -39,6 +39,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanmakoto&layout=donut-vertical)](https://github.com/renanmakoto/github-readme-stats)
 -->
-
-
 
