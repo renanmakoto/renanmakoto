@@ -34,7 +34,7 @@
   
   <a href="https://renanmakoto.com" target="_blank">
     <img src="https://img.shields.io/badge/-Website-%2300ADA2?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
-  </a> 
+  </a>
 </div>
 
 
