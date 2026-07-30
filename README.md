@@ -17,7 +17,7 @@
   <img align="center" height="30" width="40" src="./assets/amazonwebservices-original-wordmark.svg">
   <img align="center" height="30" width="40" src="./assets/linux-original.svg">
   <img align="center" height="30" width="40" src="./assets/bash-original.svg">
-  <img align="center" height="30" width="40" src="./assets/git-original.svg"> 
+  <img align="center" height="30" width="40" src="./assets/git-original.svg">
   <img align="center" height="30" width="40" src="./assets/github-original.svg"> 
 </div>
 
