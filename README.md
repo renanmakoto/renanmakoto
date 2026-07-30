@@ -13,7 +13,7 @@
   <img align="center" height="30" width="40" src="./assets/jquery-original-wordmark.svg">
   <img align="center" height="30" width="40" src="./assets/mongodb-original-wordmark.svg">
   <img align="center" height="30" width="40" src="./assets/postgresql-original.svg">
-  <img align="center" height="30" width="40" src="./assets/azure-original.svg"> 
+  <img align="center" height="30" width="40" src="./assets/azure-original.svg">
   <img align="center" height="30" width="40" src="./assets/amazonwebservices-original-wordmark.svg"> 
   <img align="center" height="30" width="40" src="./assets/linux-original.svg"> 
   <img align="center" height="30" width="40" src="./assets/bash-original.svg"> 
