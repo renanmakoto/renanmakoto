@@ -2,16 +2,16 @@
 
 <div style="display: inline_block">
   <br> 
-  <img align="center" height="30" width="40" src="./assets/javascript-original.svg"> 
-  <img align="center" height="30" width="40" src="./assets/typescript-plain.svg"> 
-  <img align="center" height="30" width="40" src="./assets/npm-original-wordmark.svg"> 
-  <img align="center" height="30" width="40" src="./assets/nodejs-original.svg"> 
-  <img align="center" height="30" width="40" src="./assets/express-original.svg"> 
-  <img align="center" height="30" width="40" src="./assets/react-original.svg"> 
-  <img align="center" height="30" width="40" src="./assets/nextjs-original.svg"> 
-  <img align="center" height="30" width="40" src="./assets/electron-original.svg"> 
-  <img align="center" height="30" width="40" src="./assets/jquery-original-wordmark.svg"> 
-  <img align="center" height="30" width="40" src="./assets/mongodb-original-wordmark.svg"> 
+  <img align="center" height="30" width="40" src="./assets/javascript-original.svg">
+  <img align="center" height="30" width="40" src="./assets/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="./assets/npm-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="./assets/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="./assets/express-original.svg">
+  <img align="center" height="30" width="40" src="./assets/react-original.svg">
+  <img align="center" height="30" width="40" src="./assets/nextjs-original.svg">
+  <img align="center" height="30" width="40" src="./assets/electron-original.svg">
+  <img align="center" height="30" width="40" src="./assets/jquery-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="./assets/mongodb-original-wordmark.svg">
   <img align="center" height="30" width="40" src="./assets/postgresql-original.svg"> 
   <img align="center" height="30" width="40" src="./assets/azure-original.svg"> 
   <img align="center" height="30" width="40" src="./assets/amazonwebservices-original-wordmark.svg"> 
